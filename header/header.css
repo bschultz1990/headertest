@@ -1,0 +1,35 @@
+
+#header {
+	display: flex;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+	align-items: center;
+	background: skyblue;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+}
+
+#sitelogo {
+	align-self: flex-start;
+	min-width: 2rem;
+}
+
+#header a {
+	font-size: larger;
+	
+}
+
+
+
+#footer {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	background: orange;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+}
+
+li {
+	list-style: none;
+}
