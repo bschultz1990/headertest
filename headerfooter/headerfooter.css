@@ -1,4 +1,4 @@
-
+/* HEADER */
 #header {
 	display: flex;
 	flex-wrap: nowrap;
@@ -19,8 +19,7 @@
 	
 }
 
-
-
+/* FOOTER */
 #footer {
 	display: flex;
 	flex-wrap: wrap;
